@@ -1,0 +1,19 @@
+{
+  "name": "aa333atmmachine",
+  "version": "1.0.0",
+  "description": "it is a simple cli ATM project.",
+  "main": "third.js",
+  "type":"module",
+  "bin":"third.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
